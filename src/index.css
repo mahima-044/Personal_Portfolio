@@ -1,0 +1,11 @@
+@import "tailwindcss";
+/* src/index.css */
+@import url('https://googleapis.com');
+
+html {
+  scroll-behavior: smooth;
+}
+
+@theme {
+  --font-brand: "Poppins","Pacifico", sans-serif;
+}
